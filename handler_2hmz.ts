@@ -1,0 +1,1 @@
+const service_2hmz = <T>(args: T): T => { return args; };
